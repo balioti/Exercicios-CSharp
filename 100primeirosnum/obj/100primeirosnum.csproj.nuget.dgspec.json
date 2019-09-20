@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\parimpar\\parimpar.csproj": {}
+    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\100primeirosnum\\100primeirosnum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\parimpar\\parimpar.csproj": {
+    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\100primeirosnum\\100primeirosnum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\parimpar\\parimpar.csproj",
-        "projectName": "parimpar",
-        "projectPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\parimpar\\parimpar.csproj",
+        "projectUniqueName": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\100primeirosnum\\100primeirosnum.csproj",
+        "projectName": "100primeirosnum",
+        "projectPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\100primeirosnum\\100primeirosnum.csproj",
         "packagesPath": "C:\\Users\\31696702801\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\parimpar\\obj\\",
+        "outputPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\100primeirosnum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\31696702801\Desktop\Exercicios-CSharp\100primeirosnum\bin\Debug\netcoreapp2.2\100primeirosnum.deps.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\100primeirosnum\bin\Debug\netcoreapp2.2\100primeirosnum.runtimeconfig.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\100primeirosnum\bin\Debug\netcoreapp2.2\100primeirosnum.runtimeconfig.dev.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\100primeirosnum\bin\Debug\netcoreapp2.2\100primeirosnum.dll
+C:\Users\31696702801\Desktop\Exercicios-CSharp\100primeirosnum\bin\Debug\netcoreapp2.2\100primeirosnum.pdb
+C:\Users\31696702801\Desktop\Exercicios-CSharp\100primeirosnum\obj\Debug\netcoreapp2.2\100primeirosnum.csprojAssemblyReference.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\100primeirosnum\obj\Debug\netcoreapp2.2\100primeirosnum.csproj.CoreCompileInputs.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\100primeirosnum\obj\Debug\netcoreapp2.2\100primeirosnum.AssemblyInfoInputs.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\100primeirosnum\obj\Debug\netcoreapp2.2\100primeirosnum.AssemblyInfo.cs
+C:\Users\31696702801\Desktop\Exercicios-CSharp\100primeirosnum\obj\Debug\netcoreapp2.2\100primeirosnum.dll
+C:\Users\31696702801\Desktop\Exercicios-CSharp\100primeirosnum\obj\Debug\netcoreapp2.2\100primeirosnum.pdb
