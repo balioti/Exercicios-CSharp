@@ -11,10 +11,10 @@ namespace parimpar
 
             if(num % 2 == 0)
             {
-                Console.WriteLine("o número é par");
+                Console.WriteLine("o número é PAIR");
             }
             else {
-                Console.WriteLine("o número é ímpar");
+                Console.WriteLine("o número é ODD");
             }
         }
     }
