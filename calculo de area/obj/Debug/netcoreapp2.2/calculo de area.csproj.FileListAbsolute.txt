@@ -1,0 +1,4 @@
+C:\Users\31696702801\Desktop\Exercicios-CSharp\calculo de area\obj\Debug\netcoreapp2.2\calculo de area.csprojAssemblyReference.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\calculo de area\obj\Debug\netcoreapp2.2\calculo de area.csproj.CoreCompileInputs.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\calculo de area\obj\Debug\netcoreapp2.2\calculo de area.AssemblyInfoInputs.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\calculo de area\obj\Debug\netcoreapp2.2\calculo de area.AssemblyInfo.cs

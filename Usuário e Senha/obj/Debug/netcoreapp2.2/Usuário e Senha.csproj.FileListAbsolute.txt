@@ -1,0 +1,11 @@
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Usuário e Senha\obj\Debug\netcoreapp2.2\Usuário e Senha.csprojAssemblyReference.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Usuário e Senha\obj\Debug\netcoreapp2.2\Usuário e Senha.csproj.CoreCompileInputs.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Usuário e Senha\obj\Debug\netcoreapp2.2\Usuário e Senha.AssemblyInfoInputs.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Usuário e Senha\obj\Debug\netcoreapp2.2\Usuário e Senha.AssemblyInfo.cs
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Usuário e Senha\bin\Debug\netcoreapp2.2\Usuário e Senha.deps.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Usuário e Senha\bin\Debug\netcoreapp2.2\Usuário e Senha.runtimeconfig.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Usuário e Senha\bin\Debug\netcoreapp2.2\Usuário e Senha.runtimeconfig.dev.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Usuário e Senha\bin\Debug\netcoreapp2.2\Usuário e Senha.dll
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Usuário e Senha\bin\Debug\netcoreapp2.2\Usuário e Senha.pdb
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Usuário e Senha\obj\Debug\netcoreapp2.2\Usuário e Senha.dll
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Usuário e Senha\obj\Debug\netcoreapp2.2\Usuário e Senha.pdb
