@@ -2,3 +2,10 @@ C:\Users\31696702801\Desktop\Exercicios-CSharp\vetores\obj\Debug\netcoreapp2.2\v
 C:\Users\31696702801\Desktop\Exercicios-CSharp\vetores\obj\Debug\netcoreapp2.2\vetores.csproj.CoreCompileInputs.cache
 C:\Users\31696702801\Desktop\Exercicios-CSharp\vetores\obj\Debug\netcoreapp2.2\vetores.AssemblyInfoInputs.cache
 C:\Users\31696702801\Desktop\Exercicios-CSharp\vetores\obj\Debug\netcoreapp2.2\vetores.AssemblyInfo.cs
+C:\Users\31696702801\Desktop\Exercicios-CSharp\vetores\bin\Debug\netcoreapp2.2\vetores.deps.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\vetores\bin\Debug\netcoreapp2.2\vetores.runtimeconfig.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\vetores\bin\Debug\netcoreapp2.2\vetores.runtimeconfig.dev.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\vetores\bin\Debug\netcoreapp2.2\vetores.dll
+C:\Users\31696702801\Desktop\Exercicios-CSharp\vetores\bin\Debug\netcoreapp2.2\vetores.pdb
+C:\Users\31696702801\Desktop\Exercicios-CSharp\vetores\obj\Debug\netcoreapp2.2\vetores.dll
+C:\Users\31696702801\Desktop\Exercicios-CSharp\vetores\obj\Debug\netcoreapp2.2\vetores.pdb
