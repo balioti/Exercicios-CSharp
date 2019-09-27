@@ -1,0 +1,4 @@
+C:\Users\31696702801\Desktop\Exercicios-CSharp\obj\Debug\netcoreapp2.2\Exercicios-CSharp.csprojAssemblyReference.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\obj\Debug\netcoreapp2.2\Exercicios-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\obj\Debug\netcoreapp2.2\Exercicios-CSharp.AssemblyInfoInputs.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\obj\Debug\netcoreapp2.2\Exercicios-CSharp.AssemblyInfo.cs

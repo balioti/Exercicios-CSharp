@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\vetores\\vetores.csproj": {}
+    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\Mcbonalds.csproj": {}
   },
   "projects": {
-    "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\vetores\\vetores.csproj": {
+    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\Mcbonalds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\vetores\\vetores.csproj",
-        "projectName": "vetores",
-        "projectPath": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\vetores\\vetores.csproj",
+        "projectUniqueName": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\Mcbonalds.csproj",
+        "projectName": "Mcbonalds",
+        "projectPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\Mcbonalds.csproj",
         "packagesPath": "C:\\Users\\31696702801\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\vetores\\obj\\",
+        "outputPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
