@@ -17,7 +17,7 @@ namespace byte_bank
 
            Cliente cliente1 = new Cliente(nome,cpf,email);
 
-           boll senhaok = false;
+           bool senhaok = false;
            do{
 
                Console.Write("digite a senha:");
@@ -28,7 +28,7 @@ namespace byte_bank
                } else {
                    System.Console.WriteLine("senha alterada com sucesso");
                }
-               while(!senhaok);
+           }    while(!senhaok);
 
                System.Console.WriteLine("Cadastro de conta corrente");
                System.Console.WriteLine();
@@ -36,26 +36,34 @@ namespace byte_bank
                int agencia = int.Parse(Console.ReadLine());
                System.Console.Write("Conta: ");
                int Conta = int.Parse(Console.ReadLine());
-               System.Console.Write("Titular: ");
-               string Titular = Console.ReadLine();
+               //System.Console.Write("Titular: ");
+               //string Titular = Console.ReadLine();
 
                bool saldovalido = false;
-               double saldo
+               double saldo;
                do{
                    Console.Write("Digite o Saldo: ");
-                   double saldo = double.Parse(Console.ReadLine());
+                   saldo = double.Parse(Console.ReadLine());
                    if (saldo >=0){
                        saldovalido = true;
                    }    else{
                        Console.WriteLine("O saldo não pode ser negativo");
                    }
-                   while(!saldovalido);
+               }    while(!saldovalido);
 
-                   ContaCorrente contaCorrente = new ContaCorrente(agencia,contaCorrente,titular);
-                   contaCorrente.saldo = saldo;
+                   Contacorrente contaCorrente = new Contacorrente (agencia,Conta,cliente1);
+                   contaCorrente.Saldo = saldo;
+
+                   System.Console.WriteLine("Bytebank - Deposito");
+                   Cliente usuario = contaCorrente.Titular;
+                   System.Console.WriteLine($"Bem Vindo - {usuario.Nome}");
+                   Console.Write("Digite o Valor do Deposito: ");
+                   double valor = double.Parse(Console.ReadLine());
+                   contaCorrente.Deposito(valor);
+                   Console.WriteLine();
                }
 
            }
         }
-    }
-}
+    
+
