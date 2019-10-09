@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Exercicios-CSharp.csproj": {}
+    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\coleçoes\\coleçoes.csproj": {}
   },
   "projects": {
-    "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Exercicios-CSharp.csproj": {
+    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\coleçoes\\coleçoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Exercicios-CSharp.csproj",
-        "projectName": "Exercicios-CSharp",
-        "projectPath": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Exercicios-CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\coleçoes\\coleçoes.csproj",
+        "projectName": "coleçoes",
+        "projectPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\coleçoes\\coleçoes.csproj",
         "packagesPath": "C:\\Users\\31696702801\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\obj\\",
+        "outputPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\coleçoes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
