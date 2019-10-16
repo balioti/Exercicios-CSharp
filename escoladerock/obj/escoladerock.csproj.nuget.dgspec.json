@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Exercicios-CSharp.csproj": {}
+    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\escoladerock\\escoladerock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Exercicios-CSharp.csproj": {
+    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\escoladerock\\escoladerock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Exercicios-CSharp.csproj",
-        "projectName": "Exercicios-CSharp",
-        "projectPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Exercicios-CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\escoladerock\\escoladerock.csproj",
+        "projectName": "escoladerock",
+        "projectPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\escoladerock\\escoladerock.csproj",
         "packagesPath": "C:\\Users\\31696702801\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\obj\\",
+        "outputPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\escoladerock\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
