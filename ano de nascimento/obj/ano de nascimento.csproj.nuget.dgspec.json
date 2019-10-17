@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\ano de nascimento\\ano de nascimento.csproj": {}
+    "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\ano de nascimento\\ano de nascimento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\ano de nascimento\\ano de nascimento.csproj": {
+    "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\ano de nascimento\\ano de nascimento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\ano de nascimento\\ano de nascimento.csproj",
+        "projectUniqueName": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\ano de nascimento\\ano de nascimento.csproj",
         "projectName": "ano de nascimento",
-        "projectPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\ano de nascimento\\ano de nascimento.csproj",
+        "projectPath": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\ano de nascimento\\ano de nascimento.csproj",
         "packagesPath": "C:\\Users\\31696702801\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\ano de nascimento\\obj\\",
+        "outputPath": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\ano de nascimento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
