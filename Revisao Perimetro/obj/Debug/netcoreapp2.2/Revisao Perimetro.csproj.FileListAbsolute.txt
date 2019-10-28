@@ -1,0 +1,11 @@
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Revisao Perimetro\obj\Debug\netcoreapp2.2\Revisao Perimetro.csprojAssemblyReference.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Revisao Perimetro\obj\Debug\netcoreapp2.2\Revisao Perimetro.csproj.CoreCompileInputs.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Revisao Perimetro\obj\Debug\netcoreapp2.2\Revisao Perimetro.AssemblyInfoInputs.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Revisao Perimetro\obj\Debug\netcoreapp2.2\Revisao Perimetro.AssemblyInfo.cs
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Revisao Perimetro\bin\Debug\netcoreapp2.2\Revisao Perimetro.deps.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Revisao Perimetro\bin\Debug\netcoreapp2.2\Revisao Perimetro.runtimeconfig.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Revisao Perimetro\bin\Debug\netcoreapp2.2\Revisao Perimetro.runtimeconfig.dev.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Revisao Perimetro\bin\Debug\netcoreapp2.2\Revisao Perimetro.dll
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Revisao Perimetro\bin\Debug\netcoreapp2.2\Revisao Perimetro.pdb
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Revisao Perimetro\obj\Debug\netcoreapp2.2\Revisao Perimetro.dll
+C:\Users\31696702801\Desktop\Exercicios-CSharp\Revisao Perimetro\obj\Debug\netcoreapp2.2\Revisao Perimetro.pdb

@@ -1,0 +1,11 @@
+C:\Users\31696702801\Desktop\Exercicios-CSharp\revisao tabuada\bin\Debug\netcoreapp2.2\revisao tabuada.deps.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\revisao tabuada\bin\Debug\netcoreapp2.2\revisao tabuada.runtimeconfig.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\revisao tabuada\bin\Debug\netcoreapp2.2\revisao tabuada.runtimeconfig.dev.json
+C:\Users\31696702801\Desktop\Exercicios-CSharp\revisao tabuada\bin\Debug\netcoreapp2.2\revisao tabuada.dll
+C:\Users\31696702801\Desktop\Exercicios-CSharp\revisao tabuada\bin\Debug\netcoreapp2.2\revisao tabuada.pdb
+C:\Users\31696702801\Desktop\Exercicios-CSharp\revisao tabuada\obj\Debug\netcoreapp2.2\revisao tabuada.csprojAssemblyReference.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\revisao tabuada\obj\Debug\netcoreapp2.2\revisao tabuada.csproj.CoreCompileInputs.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\revisao tabuada\obj\Debug\netcoreapp2.2\revisao tabuada.AssemblyInfoInputs.cache
+C:\Users\31696702801\Desktop\Exercicios-CSharp\revisao tabuada\obj\Debug\netcoreapp2.2\revisao tabuada.AssemblyInfo.cs
+C:\Users\31696702801\Desktop\Exercicios-CSharp\revisao tabuada\obj\Debug\netcoreapp2.2\revisao tabuada.dll
+C:\Users\31696702801\Desktop\Exercicios-CSharp\revisao tabuada\obj\Debug\netcoreapp2.2\revisao tabuada.pdb
