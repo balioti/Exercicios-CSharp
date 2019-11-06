@@ -6,18 +6,16 @@ namespace Zoo_logico
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("[1] - Zebra");
-            System.Console.WriteLine("[2] - Tubarão Martelo");
-            System.Console.WriteLine("[3] - Gavião");
-            System.Console.WriteLine("[4] - Condor");
-            System.Console.WriteLine("[5] - Ibex");
-            System.Console.WriteLine("[6] - Mico Leão Dourado");
-            System.Console.WriteLine("[7] - Gorila");
-            System.Console.WriteLine("[8] - Elefante");
-            System.Console.WriteLine("[9] - Rã");
-            System.Console.WriteLine("[10] - Camaleão");
-            System.Console.WriteLine("[11] - Camelo");
-            System.Console.WriteLine("[12] - Píton");
+            System.Console.WriteLine("[1] - Tubarão Martelo");
+            System.Console.WriteLine("[2] - Tucano");
+            System.Console.WriteLine("[3] - Arara");
+            System.Console.WriteLine("[4] - Leão");
+            System.Console.WriteLine("[5] - Orangotango");
+            System.Console.WriteLine("[6] - Chimpanzé");
+            System.Console.WriteLine("[7] - Pinguim");
+            System.Console.WriteLine("[8] - Tartaruga");
+            System.Console.WriteLine("[9] - Golfinho");
+            
         }
     }
 }

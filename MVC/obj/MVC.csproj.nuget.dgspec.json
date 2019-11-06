@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Zoo logico\\Zoo logico.csproj": {}
+    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Zoo logico\\Zoo logico.csproj": {
+    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Zoo logico\\Zoo logico.csproj",
-        "projectName": "Zoo logico",
-        "projectPath": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Zoo logico\\Zoo logico.csproj",
+        "projectUniqueName": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\MVC\\MVC.csproj",
+        "projectName": "MVC",
+        "projectPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\MVC\\MVC.csproj",
         "packagesPath": "C:\\Users\\31696702801\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Zoo logico\\obj\\",
+        "outputPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
