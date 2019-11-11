@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MVC.Controllers
@@ -7,6 +8,24 @@ namespace MVC.Controllers
         public IActionResult Login()
         {
             return View();
+        }
+
+        public IActionResult Login(IFormCollection form)
+        {
+            ViewData["Action"] = "Login";
+            try{
+            System.Console.WriteLine("====================");
+            System.Console.WriteLine(form["email"]);
+            System.Console.WriteLine(form["senha"]);
+            System.Console.WriteLine("====================");
+
+            return View("Sucesso");
+            } catch(Exception e)
+            {
+                System.Console.WriteLine(e.stackTrace);
+            }
+
+
         }
     }
 }
