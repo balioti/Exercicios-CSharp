@@ -1,3 +1,4 @@
+using System;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -22,7 +23,8 @@ namespace MVC.Controllers
             return View("Sucesso");
             } catch(Exception e)
             {
-                System.Console.WriteLine(e.stackTrace);
+                System.Console.WriteLine(e.StackTrace);
+                return View("Erro");
             }
 
 
