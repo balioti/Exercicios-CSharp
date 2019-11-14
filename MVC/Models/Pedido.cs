@@ -1,3 +1,5 @@
+using System;
+
 namespace MVC.Models
 {
     public class Pedido
