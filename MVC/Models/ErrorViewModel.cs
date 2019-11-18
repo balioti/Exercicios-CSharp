@@ -2,7 +2,7 @@ using System;
 
 namespace MVC.Models
 {
-    public class ErrorViewModel
+    public class PedidoViewModel
     {
         public string RequestId { get; set; }
 

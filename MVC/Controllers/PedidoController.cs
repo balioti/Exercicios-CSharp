@@ -10,6 +10,9 @@ namespace MVC.Controllers
     {
         public IActionResult Index()
         {
+            var hamburgueres = hamburguesRepository.ObterTodos();
+            PedidoViewModel pedido = new PedidoViewModel();
+            pedido.Hamburgueres = hamburguer
             return View();
         }
 

@@ -20,6 +20,9 @@ namespace MVC.Controllers
             System.Console.WriteLine(form["senha"]);
             System.Console.WriteLine("====================");
 
+                var usuario = form["email"];
+                var senha = form["senha"];
+
             return View("Sucesso");
             } catch(Exception e)
             {

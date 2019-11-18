@@ -31,6 +31,10 @@
                     <select id="hamburguer" name="hamburguer" required>
                         <option value="" disabled selected>Selecione</option>
                         <option value="furioso">Furioso</option>
+                        @foreach (var h in Model.Hamburguers)
+                        {
+                            <option value=@h.Nome>@h.nome por @h.Preco</option> 
+                        }
                         <option value="combo">Combo</option>
                     </select>
                 </div>

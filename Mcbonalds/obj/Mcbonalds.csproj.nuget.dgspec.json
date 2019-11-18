@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\Mcbonalds.csproj": {}
+    "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\Mcbonalds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\Mcbonalds.csproj": {
+    "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\Mcbonalds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\Mcbonalds.csproj",
+        "projectUniqueName": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\Mcbonalds.csproj",
         "projectName": "Mcbonalds",
-        "projectPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\Mcbonalds.csproj",
+        "projectPath": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\Mcbonalds.csproj",
         "packagesPath": "C:\\Users\\31696702801\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\obj\\",
+        "outputPath": "c:\\Users\\31696702801\\Desktop\\Exercicios-CSharp\\Mcbonalds\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
